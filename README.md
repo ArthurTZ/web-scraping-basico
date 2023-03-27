@@ -12,7 +12,6 @@ O web scraping é uma técnica utilizada para extrair dados de sites da web. O S
 
 ## Instalação:
   - Instale o Python 3.x a partir do site oficial https://www.python.org/downloads/
-  - Instale as bibliotecas Python executando o seguinte comando no terminal: pip install selenium beautifulsoup4
   - Faça o download do driver do navegador de sua preferência e versão correspondente ao seu navegador: ChromeDriver (https://sites.google.com/a/chromium.org/chromedriver/downloads) ou GeckoDriver (https://github.com/mozilla/geckodriver/releases)
   - Extraia o arquivo baixado e adicione o caminho do driver ao PATH do sistema operacional.
 
